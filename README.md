@@ -97,8 +97,8 @@ analyst = {
 | Certificate | Issuer | Year |
 |---|---|---|
 | Google Data Analytics Professional | Coursera — Google | 2026 |
-| Database and SQL for Data Science with Python | IBM / Coursera | — |
-| Basics of Data Analytics | Physics Wallah Skills |
+| Database and SQL for Data Science with Python | IBM / Coursera | 2025 |
+| Basics of Data Analytics | Physics Wallah Skills | 2026|
 
 ---
 
