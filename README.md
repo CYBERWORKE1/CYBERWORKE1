@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=Eklavya%20Kumar&fontSize=42&fontColor=4fc3f7&fontAlignY=65&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descAlignY=85&descSize=16&descColor=90caf9" width="100%"/>
+# Eklavya Kumar
+### Data Analyst · Python · SQL · Power BI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eklavya-kumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/eklavya-kumar](https://www.linkedin.com/in/eklavya-kumar-110470411/))
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:eklavyakumar8155@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CYBERWORKE1)
+[![Profile Views](https://komarev.com/ghpvc/?username=CYBERWORKE1&style=flat-square&color=4fc3f7)](https://github.com/CYBERWORKE1)
 
 </div>
 
@@ -60,15 +62,11 @@ analyst = {
 - Built CustomerSummary segmentation (Low / Mid / High value)
 - Identified **2023** as peak performance year
 
----
-
 ### 🗃️ E-Commerce Order Fulfillment Analysis — *SQL + Python*
 > Advanced SQL on **51,290 transactions** across a normalized 4-table relational database.
 - Window Functions, CTEs, RANK(), Partitioning
 - Credit cards → **74%** of all transactions
 - Delivered recommendations on loyalty programs & shipping cost reduction
-
----
 
 ### 🍽️ Zomato Restaurant EDA — *Python*
 > Exploratory analysis on **123,000+ rows** across 900 restaurants in 13 Indian cities.
@@ -81,11 +79,14 @@ analyst = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CYBERWORKE1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
+<a href="https://github.com/CYBERWORKE1">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CYBERWORKE1&theme=tokyonight&hide_border=true&show_icons=true&count_private=false&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBERWORKE1&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&cache_seconds=1800" />
+</a>
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=CYBERWORKE1&theme=tokyonight&hide_border=true)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBERWORKE1&theme=tokyonight&hide_border=true&layout=compact&langs_count=6)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CYBERWORKE1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -93,18 +94,16 @@ analyst = {
 
 ## 🏅 Certifications
 
-| Certificate | Issuer |
-|---|---|
-| Google Data Analytics Professional | Coursera — Google (2026) |
-| Database and SQL for Data Science with Python | IBM |
-| Basics of Data Analytics | — |
+| Certificate | Issuer | Year |
+|---|---|---|
+| Google Data Analytics Professional | Coursera — Google | 2026 |
+| Database and SQL for Data Science with Python | IBM / Coursera | — |
+| Basics of Data Analytics | Physics Wallah Skills |
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer" width="100%"/>
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=CYBERWORKE1&icon=6&color=1)](https://visitcount.itsvg.in)
+*"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
 </div>
