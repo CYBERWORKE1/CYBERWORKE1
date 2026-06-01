@@ -1,9 +1,8 @@
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=4FC3F7&background=0D1117&center=true&vCenter=true&width=1000&height=80&lines=Hi+%F0%9F%91%8B+I'm+Eklavya+Kumar;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
+
 <div align="center">
 
-# Eklavya Kumar
-### Data Analyst · Python · SQL · Power BI
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/eklavya-kumar](https://www.linkedin.com/in/eklavya-kumar-110470411/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eklavya-kumar-110470411/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:eklavyakumar8155@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CYBERWORKE1)
 [![Profile Views](https://komarev.com/ghpvc/?username=CYBERWORKE1&style=flat-square&color=4fc3f7)](https://github.com/CYBERWORKE1)
@@ -88,6 +87,10 @@ analyst = {
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=CYBERWORKE1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+
 </div>
 
 ---
@@ -98,7 +101,7 @@ analyst = {
 |---|---|---|
 | Google Data Analytics Professional | Coursera — Google | 2026 |
 | Database and SQL for Data Science with Python | IBM / Coursera | 2025 |
-| Basics of Data Analytics | Physics Wallah Skills | 2026|
+| Basics of Data Analytics | Physics Wallah Skills | 2026 |
 
 ---
 
